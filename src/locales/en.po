@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-30T12:36:37.821Z\n"
-"PO-Revision-Date: 2025-08-30T12:47:04.742Z\n"
+"PO-Revision-Date: 2025-09-13T07:31:16.781Z\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: \n"
@@ -12,6 +12,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
 "MIME-Version: 1.0\n"
 
-#: src/routes/+layout.svelte
-msgid "French"
-msgstr "French"
+#: src/routes/+page.svelte
+msgid "{0} | MyApp"
+msgstr "{0} | MyApp"

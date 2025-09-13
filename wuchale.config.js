@@ -3,7 +3,6 @@ import { defineConfig } from 'wuchale';
 
 export default defineConfig({
   sourceLocale: 'en',
-  otherLocales: ['fr'],
   adapters: {
     main: svelte(),
   },
